@@ -12,7 +12,7 @@ If you are looking for download links, go to our website: https://blissos.org/
 
 [BlissOS 16 source (based on Android 13)](https://github.com/BlissOS/platform_manifest/tree/typhoon-x86) <br>
 [BlissOS 17 source (based on Android 14)](https://github.com/BlissOS/platform_manifest/tree/universe-x86) <br>
-[BlissOS 18 source (based on Android 15)](https://youtu.be/dQw4w9WgXcQ?si=YQmQZb7B6wjKhGXc) (Woah woah woah slow down, it's not available yet)
+[BlissOS 18 source (based on Android 15)](https://github.com/BlissOS/platform_manifest/tree/voyager-x86)
 
 Documentation to build the OS is already in the source's README.md. If you are looking for a guide to install & configure BlissOS, check https://docs.blissos.org/
 
